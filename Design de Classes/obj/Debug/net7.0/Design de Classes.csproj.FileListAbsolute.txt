@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\bin\Debug\net7.0\Design de Classes.exe
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\bin\Debug\net7.0\Design de Classes.deps.json
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\bin\Debug\net7.0\Design de Classes.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\bin\Debug\net7.0\Design de Classes.dll
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\bin\Debug\net7.0\Design de Classes.pdb
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\Design de Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\Design de Classes.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\Design de Classes.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\Design de Classes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\Design de Classes.dll
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\refint\Design de Classes.dll
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\Design de Classes.pdb
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\Design de Classes.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\CSharp\Design de Classes\obj\Debug\net7.0\ref\Design de Classes.dll
