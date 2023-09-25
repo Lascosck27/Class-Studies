@@ -1,10 +1,10 @@
 # OOP Study
- A repo created to maintain codes for OOP study.
+ A repo created to post my classes and relationships studies.
 
-In this repo, i'm studying classes, horizontal relationships, inheritance, exceptions treatment, DB access, lambda and LINQ.
+In this repo, i'm studying classes, constructors, destructors and horizontal relationships.
 
 
 
-Uma repo criada para manter códigos para estudo  de POO.
+Uma repo criada para meus estudos de classes e relacionamentos.
 
-Nesta repo, estou estudando classes, relacionamentos horizontais, herança, tratamento de exceções, acesso a BD, lambda e LINQ.
+Nesta repo, estou estudando classes, construtores, destrutores e relacionamentos horizontais.
