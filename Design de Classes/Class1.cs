@@ -11,9 +11,9 @@ namespace Design_de_Classes
         public string logradouro, cidade, estado;   // tem 3 campos
         public Endereco(string logradouro, string cidade, string estado)    // quando instanciar, passar os argumentos para logradouro, cidade e estado
         {
-            this.logradouro = logradouro;   // atribui o valor do argumento ao campo
-            this.cidade = cidade;           // atribui o valor do argumento ao campo
-            this.estado = estado;           // atribui o valor do argumento ao campo
+            this.logradouro = logradouro;   // atribui o valor do argumento ao campo especíico dessa instância
+            this.cidade = cidade;           // atribui o valor do argumento ao campo especíico dessa instância
+            this.estado = estado;           // atribui o valor do argumento ao campo especíico dessa instância
         }
         /*public void ImprimirEndereco()  // metodo que salva os valores numa string depois os mostra formatados
         {
@@ -25,14 +25,14 @@ namespace Design_de_Classes
     {
         public string nome;
         public int id;
-        static readonly int anoMatricula = DateTime.Now.Year;   //atribui o ano atual ao campo "anoMatricula" para todas as instancias
+        static readonly int anoMatricula = DateTime.Now.Year;   //atribui o ano atual ao campo "anoMatricula" para todas as instancias. Foi usado readonly por atribuir o valor durante o runtime, não no  tempo de compilação.
         static string curso = "Análise e Desenvolvimento de Sistemas"; //atribui o curso "Análise e Desenvolvimento de Sistemas" a todas as instancias 
         Endereco endereco; //o estudante vai ter um campo chamado "endereco" que é do tipo Endereço (a classe)
         public Estudante(int id, string nome, Endereco endereco)    //aqui se passa os argumentos, usando o nome do endereco instanciado como o endereco do estudante
         {
-            this.id = id;
-            this.nome = nome;
-            this.endereco = endereco;
+            this.id = id;                   // atribui o valor do argumento ao campo especíico dessa instância
+            this.nome = nome;               // atribui o valor do argumento ao campo especíico dessa instância
+            this.endereco = endereco;       // atribui o valor do argumento ao campo especíico dessa instância
         }
         public void Display() //função que mostra todas as informações formatadas
         {
