@@ -3,7 +3,7 @@
 
 In this repo, i'm studying classes, horizontal relationships, inheritance, exceptions treatment, DB access, lambda and LINQ.
 
---
+
 
 Uma repo criada para manter códigos para estudo  de POO.
 
